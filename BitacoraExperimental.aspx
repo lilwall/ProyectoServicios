@@ -14,6 +14,7 @@
             <input id="txtCod_Proyecto" type="text" />
             
             <br />
+            <br />
             <asp:Image ID="Firma" runat="server" Height="110px" />
             <asp:DropDownList ID="ddlNombreCompleto" runat="server" Height="16px" Width="101px"></asp:DropDownList>
             <asp:DropDownList ID="ddlFirma" runat="server" Height="16px" Width="104px"></asp:DropDownList>
